@@ -724,11 +724,6 @@ Organising the repository this way makes it easier for a recruiter or hiring man
 
 ---
 
-# 🔗 Project Links
-
-📄 **Full Database Report:** [View Link](https://docs.google.com/document/d/1nE73xDZaKyDCl4zwevG6R_w8Hl0VFH4eRsgfC7RPF9I/edit?usp=drive_link)
-
----
 
 # 💼 Portfolio Skills Summary
 
